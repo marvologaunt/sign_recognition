@@ -1,3 +1,3 @@
-#Sign Recognition Project
+# Sign Recognition Project
 
 ##
